@@ -73,19 +73,16 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
    - **Approach:** Bag-of-Words with TF-IDF weighting and cosine similarity for response matching.
    - **Strengths:** High precision for structured inputs.
    - **Weaknesses:** Poor adaptability to complex or novel queries.
-   - - ![Rule-Based Model](images/rule_based_model.png)
 
 2. **Retrieval-Based Model**  
    - **Architecture:** LSTM-based neural network for classification.
    - **Strengths:** Balances precision and relevance for in-domain queries.
    - **Weaknesses:** Limited flexibility for unseen inputs.
-   - - ![Retrieval-Based Model](images/retrieval_based_model.png)
 
 3. **Generative Model**  
    - **Architecture:** Encoder-Decoder with LSTMs.
    - **Strengths:** Handles diverse and nuanced queries.
    - **Weaknesses:** Risk of incoherent or irrelevant outputs due to limited training data.
-   - - ![Generative Model](images/generative_model.png)
 
 ---
 
@@ -96,6 +93,9 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
   - **Accuracy:** Measures the proportion of correct responses.
   - **BLEU Score:** Assesses fluency and relevance for generative models.
   - **Perplexity:** Indicates the coherence of generative responses.
+
+---
+
 ## Results
 
 | Model             | Accuracy (%) | BLEU Score | Perplexity |
@@ -104,12 +104,18 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
 | Retrieval-Based   | 85.4         | N/A        | N/A        |
 | Generative        | N/A          | 24.5       | 12.7       |
 
+- ![Rule-Based Model](images/rule_based_model.png)
+- ![Retrieval-Based Model](images/retrieval_based_model.png)
+- ![Generative Model](images/generative_model.png)
+
+---
 ## Future Work
   -1.Hybrid Models: Combine retrieval-based and generative models for better accuracy and flexibility.
   
   -2.Attention Mechanisms: Use transformer architectures to improve response coherence.
   
   -3.Larger Datasets: Pretrain models on diverse datasets to enhance generalization.
-
+  
+---
 ## Contributing
   -Contributions are welcome! Please fork the repository and create a pull request with your enhancements or fixes.

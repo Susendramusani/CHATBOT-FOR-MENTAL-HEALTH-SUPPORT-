@@ -13,11 +13,10 @@ This repository contains the implementation and analysis of three chatbot archit
 3. [Technologies Used](#technologies-used)  
 4. [Dataset](#dataset)  
 5. [Model Descriptions](#model-descriptions)  
-6. [Usage](#usage)  
-7. [Evaluation Metrics](#evaluation-metrics)  
-8. [Results](#results)  
-9. [Future Work](#future-work)  
-10. [Contributing](#contributing)  
+6. [Evaluation Metrics](#evaluation-metrics)  
+7. [Results](#results)  
+8. [Future Work](#future-work)  
+9. [Contributing](#contributing)  
 
 ---
 
@@ -82,31 +81,7 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
 
 ---
 
-## Usage
 
-1. Preprocess the dataset:
-   ```bash
-   python preprocess.py
-2. Train models:
-   Rule-Based:
-   
-      ```bash
-      python rule_based_model.py
-   
-   Retrieval-Based:
-   
-      ```bash
-      python retrieval_based_model.py
-   
-   Generative-Based:
-   
-      ```bash
-      python generative_model.py
-3. Evaluate models:
-
-   ```bash
-   python evaluate.py
-   
 
 
 ## Evaluation Metrics

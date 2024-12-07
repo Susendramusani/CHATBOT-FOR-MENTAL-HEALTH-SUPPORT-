@@ -88,7 +88,7 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
 ## Evaluation Metrics
   - **Accuracy:** Measures the proportion of correct responses.
   - **BLEU Score:** Assesses fluency and relevance for generative models.
-  - **Perplexity:* Indicates the coherence of generative responses.
+  - **Perplexity:** Indicates the coherence of generative responses.
 ## Results
 
 | Model             | Accuracy (%) | BLEU Score | Perplexity |

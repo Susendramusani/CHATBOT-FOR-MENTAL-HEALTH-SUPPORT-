@@ -110,6 +110,7 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
 
 ## Future Work
   -1.Hybrid Models: Combine retrieval-based and generative models for better accuracy and flexibility.
+  
   -2.Attention Mechanisms: Use transformer architectures to improve response coherence.
   -3.Larger Datasets: Pretrain models on diverse datasets to enhance generalization.
 

@@ -66,16 +66,19 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
    - **Approach:** Bag-of-Words with TF-IDF weighting and cosine similarity for response matching.
    - **Strengths:** High precision for structured inputs.
    - **Weaknesses:** Poor adaptability to complex or novel queries.
+   - - ![Rule-Based Model](images/rule_based_model.png)
 
 2. **Retrieval-Based Model**  
    - **Architecture:** LSTM-based neural network for classification.
    - **Strengths:** Balances precision and relevance for in-domain queries.
    - **Weaknesses:** Limited flexibility for unseen inputs.
+   - - ![Retrieval-Based Model](images/retrieval_based_model.png)
 
 3. **Generative Model**  
    - **Architecture:** Encoder-Decoder with LSTMs.
    - **Strengths:** Handles diverse and nuanced queries.
    - **Weaknesses:** Risk of incoherent or irrelevant outputs due to limited training data.
+   - - ![Generative Model](images/generative_model.png)
 
 ---
 
@@ -84,7 +87,6 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
 1. Preprocess the dataset:
    ```bash
    python preprocess.py
-
 2. Train models:
    Rule-Based:
    python rule_based_model.py
@@ -92,7 +94,6 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
    python retrieval_based_model.py
    Generative:
    python generative_model.py
-
 3.Evaluate models:
    python evaluate.py
 

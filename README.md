@@ -88,23 +88,19 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
    ```bash
    python preprocess.py
 2. Train models:
-Rule-Based:
-
+   Rule-Based:
 bash
 Copy code
 python rule_based_model.py
 Retrieval-Based:
-
 bash
 Copy code
 python retrieval_based_model.py
 Generative:
-
 bash
 Copy code
 python generative_model.py
 Evaluate models:
-
 bash
 Copy code
 python evaluate.py

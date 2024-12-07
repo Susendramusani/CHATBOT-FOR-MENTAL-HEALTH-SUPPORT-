@@ -1,4 +1,4 @@
-# A Comparative Study of Rule-Based, Retrieval-Based & Generative Models
+# CHATBOT FOR MENTAL HEALTH SUPPORT: A Comparative Study of Rule-Based, Retrieval-Based & Generative Models
 
 ## Table of Contents
 

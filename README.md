@@ -10,7 +10,7 @@ This repository contains the implementation and analysis of three chatbot archit
 
 The following image illustrates the architecture of the chatbot models used in this project:
 
-![Chatbot Architecture]("C:\Users\susen\Downloads\NLP Project\NLP Project\images\architecture.png")
+![Chatbot Architecture](https://github.com/Susendramusani/CHATBOT-FOR-MENTAL-HEALTH-SUPPORT-/blob/main/chatbotarchitecture.png)
 
 ---
 

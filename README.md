@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation and analysis of three chatbot architectures—**Rule-Based**, **Retrieval-Based**, and **Generative Models**—designed to provide mental health support. These models are trained on a dataset of mental health FAQs and evaluated using various quantitative and qualitative metrics to determine their effectiveness, flexibility, and suitability for real-world applications.
+This repository contains the implementation and analysis of three chatbot architectures:**Rule-Based**, **Retrieval-Based**, and **Generative Models**—designed to provide mental health support. These models are trained on a dataset of mental health FAQs and evaluated using various quantitative and qualitative metrics to determine their effectiveness, flexibility, and suitability for real-world applications.
 
 ---
 

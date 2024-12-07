@@ -100,8 +100,6 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
    ```bash
    python evaluate.py
 
-
-
 ## Evaluation Metrics
   - **Accuracy:** Measures the proportion of correct responses.
   - **BLEU Score:** Assesses fluency and relevance for generative models.

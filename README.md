@@ -1,4 +1,4 @@
-# Chatbot for Mental Health Support
+# Chatbot for Mental Health Support: A Comparative Study of Rule-Based, Retrieval-Based & Generative Models
 
 ## Overview
 

@@ -6,6 +6,14 @@ This repository contains the implementation and analysis of three chatbot archit
 
 ---
 
+## Architecture
+
+The following image illustrates the architecture of the chatbot models used in this project:
+
+![Chatbot Architecture](images/architecture.png)
+
+---
+
 ## Table of Contents
 
 1. [Introduction](#introduction)  

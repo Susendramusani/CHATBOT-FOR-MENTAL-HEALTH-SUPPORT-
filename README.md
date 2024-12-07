@@ -104,9 +104,9 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
 | Retrieval-Based   | 85.4         | N/A        | N/A        |
 | Generative        | N/A          | 24.5       | 12.7       |
 
-- ![Rule-Based Model](images/rule_based_results.png)
-- ![Retrieval-Based Model](images/retrieval_based_model.png)
-- ![Generative Model](images/generative_model.png)
+- ![Rule-Based Model](https://github.com/Susendramusani/CHATBOT-FOR-MENTAL-HEALTH-SUPPORT-/blob/main/rule_based_results.png)
+- ![Retrieval-Based Model](https://github.com/Susendramusani/CHATBOT-FOR-MENTAL-HEALTH-SUPPORT-/blob/main/retrieval_based_model.png)
+- ![Generative Model](https://github.com/Susendramusani/CHATBOT-FOR-MENTAL-HEALTH-SUPPORT-/blob/main/generative_model.png)
 
 ---
 ## Future Work

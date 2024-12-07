@@ -95,7 +95,10 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
    ```bash
    python generative_model.py
 4. Evaluate models:
+   ```bash
    python evaluate.py
+   
+
 
 
 

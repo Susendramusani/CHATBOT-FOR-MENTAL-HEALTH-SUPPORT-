@@ -92,6 +92,7 @@ The dataset consists of **1,000 question-answer pairs** related to mental health
 
    ```bash
    python rule_based_model.py
+
    
    python retrieval_based_model.py
    
